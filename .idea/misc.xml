@@ -8,6 +8,7 @@
         <entry key="tv/src/main/res/drawable/default_background.xml" value="0.1645" />
         <entry key="tv/src/main/res/drawable/ic_banner_foreground.xml" value="0.204" />
         <entry key="tv/src/main/res/drawable/ic_channel_foreground.xml" value="0.204" />
+        <entry key="tv/src/main/res/drawable/ic_launcher_foreground.xml" value="0.117" />
         <entry key="tv/src/main/res/layout/activity_details.xml" value="0.209375" />
         <entry key="tv/src/main/res/layout/activity_main.xml" value="0.25121307373046875" />
         <entry key="tv/src/main/res/layout/activity_main2.xml" value="0.228125" />
